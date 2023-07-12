@@ -9891,6 +9891,7 @@ h6,
 #videoModal .modal-body {
   position: relative;
   padding: 0px;
+
 }
 
 #videoModal .close {
@@ -9974,11 +9975,17 @@ h6,
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border-radius: 60px;
-  background: #0BCEAF;
+  background: #000;
 }
 
 .contact-form .help-block ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+.home1 {
+  position:relative;
+  margin-top: 1px;
+  margin-left: 350px ;
 }
